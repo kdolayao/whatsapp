@@ -1,6 +1,6 @@
-[Live demo](https://whatsapp-clone-6bfeb.web.app/). of the project. 
+[Live demo](https://whatsapp-clone-6bfeb.web.app/) of the project. 
 
-This project is created using react.js and google firestore as backend database. 
+This project is created using react.js and google firestore as backend database. It also uses google to enter the app as an authentication.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
